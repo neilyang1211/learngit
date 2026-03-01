@@ -1,5 +1,4 @@
-aaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbb
-ccccccccccccccccccc
-ccccccccccccccccc
+int main()
+{
+return 0;
+}
